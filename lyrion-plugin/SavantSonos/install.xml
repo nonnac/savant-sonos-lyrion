@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<extension>
+	<id>savantsonos@savant-sonos-lyrion</id>
+	<name>PLUGIN_SAVANTSONOS</name>
+	<module>Plugins::SavantSonos::Plugin</module>
+	<version>1.3</version>
+	<description>PLUGIN_SAVANTSONOS_DESC</description>
+	<creator>savant-sonos-lyrion</creator>
+	<defaultState>enabled</defaultState>
+	<type>2</type>
+	<targetApplication>
+		<id>SlimServer</id>
+		<minVersion>8.0</minVersion>
+		<maxVersion>*</maxVersion>
+	</targetApplication>
+</extension>

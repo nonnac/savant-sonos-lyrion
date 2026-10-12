@@ -1,0 +1,5 @@
+PLUGIN_SAVANTSONOS
+	EN	Savant Sonos Bridge
+
+PLUGIN_SAVANTSONOS_DESC
+	EN	Lets Savant switch Sonos soundbars (via the UPnP Bridge) to TV input, control volume/mute, and read the active source.

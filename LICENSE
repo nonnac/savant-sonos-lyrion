@@ -1,0 +1,7 @@
+Lyrion patches (docker/) and the Savant Sonos Bridge plugin (lyrion-plugin/) are
+licensed under the GNU General Public License, version 2 or (at your option) any
+later version, the same license as Lyrion Music Server.
+Full text: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+
+The Savant component profile (savant-profiles/) is based on the community
+Squeezebox profile by benumc; see README for credits.
